@@ -48,6 +48,11 @@ func (i *Importer) SetSourceFromFile(path string) {
 	i.fpdi.SetSourceFile(path)
 }
 
+// NumPages gets the number of pages.
+func (i *Importer) NumPages() int {
+	return i.fpdi.GetReader().NumPages()
+}
+
 // ImportPage imports a page of a PDF file with the specified box (/MediaBox,
 // /TrimBox, /ArtBox, /CropBox, or /BleedBox). Returns a template id that can
 // be used with UseImportedTemplate to draw the template onto the page.
