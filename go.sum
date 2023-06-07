@@ -2,8 +2,11 @@ github.com/boombuler/barcode v1.0.0 h1:s1TvRnXwL2xJRaccrdcBQMZxq6X7DvsMogtmJeHDd
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/desertbit/gofpdf v0.0.1 h1:hq9F+jeCjvPMYjw+kRUZGpYyUTzSUNyy9lW6Nu4beeU=
+github.com/desertbit/gofpdf v0.0.1/go.mod h1:Oh5rjEm6991ueReNITQuQP5zVO6OkHae3ca1P3X60xE=
+github.com/im1lkyway/gofpdi v0.0.0-20230607083213-25525b9ad0a3 h1:kj3rlQPKDIEaQrmL/2znse+avRejYYTemnpLYn+QaBQ=
+github.com/im1lkyway/gofpdi v0.0.0-20230607083213-25525b9ad0a3/go.mod h1:889vCJEx/ynuIzb9w8RSGiM3QFDSejcU+GT9tHiistI=
 github.com/jung-kurt/gofpdf v1.0.0/go.mod h1:7Id9E/uU8ce6rXgefFLlgrJj/GYY22cpxn+r32jIOes=
-github.com/phpdave11/gofpdi v1.0.7 h1:k2oy4yhkQopCK+qW8KjCla0iU2RpDow+QUDmH9DDt44=
 github.com/phpdave11/gofpdi v1.0.7/go.mod h1:vBmVV0Do6hSBHC8uKUQ71JGW+ZGQq74llk/7bXwjDoI=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
